@@ -25,6 +25,9 @@ The model is trained using **Gradient Boosting Classifier** from `scikit-learn`.
 * Model: `GradientBoostingClassifier` (default parameters)
 * Target: `Survived`
 * Features: All others after preprocessing
+### Score
+
+Accuracy of 0.796
 
 ### 🧾 Inference
 
